@@ -1,10 +1,8 @@
+#EXTM3U
 
-##KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-{"72756c54344d61596945784947784d58":"796755734f45324642357a416c794e61"}
+#KODIPROP:inputstream.adaptive.license_key={"72756c54344d61596945784947784d58":"796755734f45324642357a416c794e61"}
 
-#EXTINF:-1 tvg-id="4028c68595d0c2ed01961380bf580430"
-group-logo="https://i.ibb.co/bgJYPncz/cubmu-hd.png"
-tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg"
-group-title="CUBMU - Film", tvN Movies
+#EXTINF:-1 tvg-id="4028c68595d0c2ed01961380bf580430" group-logo="https://i.ibb.co/bgJYPncz/cubmu-hd.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="TEST",tvN Movies
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
