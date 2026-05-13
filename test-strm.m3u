@@ -17,6 +17,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1_dash/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e4f1a636b93240d88fa17c089a30db50":"52d05ac325974bcd93966be2faf88f3a"}
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/efd64b16-bd8c-440c-8744-fd02b4125839.jpg" group-title="TEST",Live Sport
 https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/bGl2ZV9ldmVudF9jaGFubmVsMQ/manifest.mpd
