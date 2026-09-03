@@ -51,3 +51,10 @@ https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|34fe96d2dc914673f817529b2643026e:956534bcce9933ab317d48a6fd37b8ae
 https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/Q29va2luZyBUVg/vx9-mdrmprt02/manifest.mpd?signature=YmRmNDEyODEwYTE2Y2YzYWNmODZlZjUwYmY4NDAwNTc=&time=15243746062
 
+#EXTINF:-1 tvg-id="cooking-tv" tvg-name="Cinemax" group-title="Transvision Test",Cinemax
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|68516d6739344e466e39574749776874:53535134585a73547a63454c6d674c66
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|-key
+
