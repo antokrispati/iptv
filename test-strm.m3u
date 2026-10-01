@@ -63,7 +63,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+https://cdn-local-edge.cubmu.com/local/play/800-TransTV/index.m3u8?hls?signature=ZWYxM2ZjN2M0YmVlYWNmNDJhNTVlMTMwZDk5OTg2ZTQ=&time=15257372307&device_id=9UnkxxJSj-fEav7_DA01JQJWCkg8ijszTLh36lQ6_CXo
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="TV Nasional", Trans 7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
