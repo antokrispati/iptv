@@ -67,7 +67,7 @@ https://cubmu.datamu.workers.dev/VHJhbnNUVg.mpd?exp=1791364435&channel=VHJhbnNUV
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="TV Nasional", Trans 7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
 https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VFJBTlM3LW15/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df14d47b-e9d7-4265-8e2c-8ac28c29cb3f.jpg" group-title="TV Nasional", CNN Indonesia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -78,7 +78,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="TV Nasional", CNBC Indonesia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfc9d256-0421-447e-9aae-431db3de77c3.png" group-title="TV Nasional", MetroTV
@@ -90,7 +90,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" group-title="TV Nasional", TVOne
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d9cafe05-1183-4b33-a315-51a1fb42b2bc.png" group-title="TV Nasional", SCTV
